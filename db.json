@@ -1,0 +1,43 @@
+{
+    "cards" : [
+        {
+            "id" :1,
+            "title" : "Airpods",
+            "price" :199.00,
+            "memory" : "",
+            "image" : "./src/Asets/Airpods.png"
+        },
+         {
+            "id" :2,
+            "title" : "Apple card",
+            "price" :299.00,
+            "memory" : "",
+            "image" : "./src/Asets/Applecard.png"
+        },
+        {
+            "id" :3,
+            "title" : "Appletv",
+            "price" :199.00,
+            "memory" : "",
+            "image" : "./src/Asets/Appletv.png"
+        },
+
+        {
+            "id" :4,
+            "title" : "Airpods",
+            "price" :1.00,
+            "memory" : "",
+            "image" : "./src/Asets/Applecard.png"
+        },
+
+
+        {
+            
+            "id" :5,
+            "title" : "Iphone",
+            "price" :499.00,
+            "memory" : "",
+            "image" : "./src/Asets/Iphone.png"
+        }
+    ]
+}
